@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Thumbnail Grabber",
+  "description": "A simple and elegant tool to extract and display the thumbnail of any YouTube video from its URL. Just paste the link and get the high-quality thumbnail instantly.",
+  "requestFramePermissions": []
+}
